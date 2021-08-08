@@ -32,7 +32,7 @@
           "type": "markdown",
           "state": {
             "file": "Первый Пробник/Нариот.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md",
+                "file": "Первый Пробник/Нариот.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md",
+                "file": "Первый Пробник/Нариот.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md"
+                "file": "Первый Пробник/Нариот.md"
               }
             }
           },
@@ -143,17 +143,17 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "193782c0ef1910e7",
+  "active": "632a9ce45ffa2ea1",
   "lastOpenFiles": [
-    "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md",
     "Первый Пробник/Нариот.md",
+    "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md",
     "Первый Пробник/Сборник/Бестиарий/Полтергейст.md",
     "Первый Пробник/Сборник/Без названия.md",
     "КерАтлантос/Книга первый пробник/Без названия.md",
