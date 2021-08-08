@@ -2,7 +2,13 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
-    "nbsp"
+    "nbsp",
+    "Азен",
+    "Азен",
+    "Азена",
+    "Берка",
+    "Азена",
+    "Азену"
   ],
   "promptDelete": false,
   "showLineNumber": true

@@ -133,8 +133,17 @@
                 "file": "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md"
               }
             }
+          },
+          {
+            "id": "61e4057cf469159b",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
