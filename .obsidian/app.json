@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "nbsp"
+  ],
+  "promptDelete": false,
+  "showLineNumber": true
+}

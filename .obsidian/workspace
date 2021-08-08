@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "68bf91c0b49ea1fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ab86742a39b6345",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b8a4041bb170194",
+    "type": "split",
+    "children": [
+      {
+        "id": "571d4e9f850ef927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02bb4aa48c8805f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f12fed88f3dc2fcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d92d598e905b291",
+    "type": "split",
+    "children": [
+      {
+        "id": "622b853ca0058a50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5abeef9dff4862",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f240f560b046494",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3841047d7bdaebb3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdfb60df9169cf7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1ab86742a39b6345",
+  "lastOpenFiles": [
+    "Первый Пробник/Книга/Глава 1, где духу не поздоровилось..md",
+    "Первый Пробник/Сборник/Бестиарий/Полтергейст.md",
+    "Первый Пробник/Сборник/Без названия.md",
+    "КерАтлантос/Книга первый пробник/Без названия.md",
+    "КерАтлантос/Нариот.md",
+    "КерАтлантос/Назаин.md",
+    "КерАтлантос/Нариот (conflict 2021-08-02-22-52-11).md",
+    "КерАтлантос/Пробник 1.md",
+    "Кендор.md",
+    "Система магии.md"
+  ]
+}
