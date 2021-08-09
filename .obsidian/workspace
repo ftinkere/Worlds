@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 279,
+    "collapsed": true
   },
   "right": {
     "id": "3d92d598e905b291",
@@ -149,9 +150,16 @@
               "type": "stats-tracker",
               "state": {}
             }
+          },
+          {
+            "id": "8d8ecd27caa9046d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
