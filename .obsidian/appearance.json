@@ -1,5 +1,6 @@
 {
-  "baseFontSize": 19,
+  "baseFontSize": 18,
   "translucency": true,
-  "cssTheme": "Spectrum"
+  "cssTheme": "Spectrum",
+  "theme": "obsidian"
 }

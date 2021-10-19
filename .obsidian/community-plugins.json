@@ -1,7 +1,6 @@
 [
   "css-snippets",
   "obsidian-admonition",
-  "table-editor-obsidian",
   "obsidian-mind-map",
   "obsidian-git",
   "url-into-selection",
@@ -9,7 +8,6 @@
   "obsidian-vault-statistics-plugin",
   "cm-typewriter-scroll-obsidian",
   "obsidian-languagetool-plugin",
-  "obsidian-daily-stats",
   "better-fn",
   "obsidian-plugin-toc"
 ]
