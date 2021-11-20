@@ -1,13 +1,10 @@
 [
-  "css-snippets",
   "obsidian-admonition",
-  "obsidian-mind-map",
   "obsidian-git",
   "url-into-selection",
   "sliding-panes-obsidian",
   "obsidian-vault-statistics-plugin",
   "cm-typewriter-scroll-obsidian",
   "obsidian-languagetool-plugin",
-  "better-fn",
   "obsidian-plugin-toc"
 ]
