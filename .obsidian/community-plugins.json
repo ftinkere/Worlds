@@ -3,8 +3,9 @@
   "obsidian-git",
   "url-into-selection",
   "sliding-panes-obsidian",
-  "obsidian-vault-statistics-plugin",
   "cm-typewriter-scroll-obsidian",
   "obsidian-languagetool-plugin",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-filename-heading-sync",
+  "obsidian-style-settings"
 ]

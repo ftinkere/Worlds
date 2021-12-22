@@ -1,0 +1,14 @@
+{
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@plain-file-title": false,
+  "blue-topaz-theme@@export-pdf-style-options": "export-pdf-style-default",
+  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@light-background-color-files": false,
+  "blue-topaz-theme@@unmuted-collapsed-folder": false,
+  "blue-topaz-theme@@fancy-hr": true,
+  "blue-topaz-theme@@bt-status-off": false,
+  "blue-topaz-theme@@folder-style-change-options-colorful": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-one",
+  "blue-topaz-theme@@font-family-vault": "Arlrdbd, 'Source Han Sans', 'Noto Sans CJK', 'Source Sans Pro', 'Segoe UI Emoji', sans-serif"
+}
