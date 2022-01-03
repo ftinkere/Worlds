@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "projects": {
+    "Попаданец наполовину": {
+      "path": "Попаданец наполовину",
+      "indexFile": "Index",
+      "draftsPath": "Drafts/"
+    }
+  },
+  "selectedProject": "Попаданец наполовину",
+  "selectedDraft": "Глава 0, в которой герой потерял голову"
+}
