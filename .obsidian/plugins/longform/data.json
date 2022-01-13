@@ -5,8 +5,13 @@
       "path": "Попаданец наполовину",
       "indexFile": "Index",
       "draftsPath": "Drafts/"
+    },
+    "Последний орденец": {
+      "path": "Последний орденец",
+      "indexFile": "Index",
+      "draftsPath": "Drafts/"
     }
   },
-  "selectedProject": "Попаданец наполовину",
-  "selectedDraft": "Глава 0, в которой герой потерял голову"
+  "selectedProject": "Последний орденец",
+  "selectedDraft": "Глава 0"
 }
